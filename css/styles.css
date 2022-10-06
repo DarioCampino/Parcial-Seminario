@@ -1,0 +1,13 @@
+h1{
+    color: red;   
+    font-family:  'Lobster', cursive;
+    text-align: center;
+}
+
+#botones{
+    text-align: center;   
+}
+
+#contenedor{
+    border: solid black;   
+}
